@@ -10,7 +10,7 @@ Designed as a portfolio project with a strong focus on typography, visual hierar
 
 ## Preview
 
-![NOIR Auto Detailing — website preview](assets/preview.png)
+![NOIR Auto Detailing — website preview](assets/images/preview.png)
 
 ## About the project
 
